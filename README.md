@@ -11,7 +11,7 @@ Project learning:
 
 3.Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
 
-4.Used different types of customized visualizations
+4.Used different types of customized visualizations( Bar chart, Pie chart, Donut chart, Clustered bar chart, Scatter chart, Line chart etc)
 
 To Develop this project i have used 
 Power BI 
